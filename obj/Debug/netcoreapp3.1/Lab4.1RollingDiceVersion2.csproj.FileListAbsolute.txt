@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\bin\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\bin\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\bin\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\bin\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\bin\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\bin\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\obj\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\obj\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\obj\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\obj\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week4\Lab4.1RollingDiceVersion2\obj\Debug\netcoreapp3.1\Lab4.1RollingDiceVersion2.pdb
